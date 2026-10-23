@@ -1,6 +1,6 @@
 # Hello, I'm Kristian
 
-Currently studying (bachelor) information science at UiB (University of Bergen). Interested in cyber-security, web-dev, low-level and so on. I have played piano (jazz, with a touch of classical) for 13 years, therefore software and music together would make my internal GPT happy!
+Currently studying (bachelor) information science at University of Bergen. Interested in cyber-security, web-dev, low-level and so on.
 
 ## What I'm working on 
 - Passwordgenerator (low-level)
